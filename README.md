@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t-primero
-- 🌱 I’m currently learning ... Google Data Analytics  / SQL / R Studio
+- 🌱 I’m currently learning ... AWS  / SQL / Python
 - 📫 How to reach me ... linkedin / gmail
 
 <!---
