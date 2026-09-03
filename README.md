@@ -15,7 +15,7 @@ compliance.
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://t-primero.github.io).
+Welcome to my portfolio, where I showcase my [projects](https://t-primero.github.io/projects.html)
 
 - **[Apple Global Product Sales Analysis](https://github.com/t-primero/apple-sales-analysis)** —
   EDA and discount-strategy deep-dive across two notebooks; found that aggressive
