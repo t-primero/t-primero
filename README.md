@@ -4,8 +4,7 @@
 
 Hello, I'm Tommy! I am a data analyst with a background in finance and financial
 operations. I recently completed my **MS in Applied Business Analytics at Boston
-University**, and I bring nearly five years at **Charles Schwab**, where I work
-in retirement operations on payroll processing, data validation, and regulatory
+University**, and I bring nearly five years in retirement operations on payroll processing, data validation, and regulatory
 compliance.
 
 - 🧹 Cleaning, wrangling, and validating messy real-world datasets.
