@@ -19,6 +19,10 @@ Welcome to my portfolio, where I showcase my [projects](https://t-primero.github
 - **[Apple Global Product Sales Analysis](https://github.com/t-primero/apple-sales-analysis)** —
   EDA and discount-strategy deep-dive across two notebooks; found that aggressive
   discounting eroded revenue. *(pandas, seaborn, statsmodels)*
+- **[E-Commerce Sales Analysis](https://github.com/t-primero/«ecommerce-repo»)** —
+  SQL-focused analysis of ~34,500 online orders in DuckDB; found that deeper
+  discounts eroded per-order profit (~30 → ~22) without lifting order volume.
+  *(SQL, DuckDB, Plotly)*
 
 ## 🛠️ Tools 
 
